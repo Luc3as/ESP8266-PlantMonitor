@@ -46,13 +46,21 @@ There are 2 buttons connected, one is for restarting device, and second one to b
 ## Shopping list
 I'll sum up all links I bought for this setup. 
 [ESP-12E](https://www.aliexpress.com/item/2015-New-version-1PCS-ESP-12F-ESP-12E-upgrade-ESP8266-remote-serial-Port-WIFI-wireless-module/32649968409.html?spm=2114.13010608.0.0.w4pxDL)
+
 [Multiplexer](https://www.aliexpress.com/item/CD74HC4067-16-Channel-Analog-Digital-Multiplexer-Breakout-Board-Module-For-Arduino/32646637082.html?spm=2114.13010608.0.0.2vcShQ)
+
 [Voltage regulator](https://www.aliexpress.com/item/High-Quality-10Pcs-lot-5V-to-3-3V-For-DC-DC-Step-Down-Power-Supply-Buck/32553127952.html?spm=2114.13010608.0.0.kcr6Hl)
+
 [Charger](https://www.aliexpress.com/item/Free-shipping-5pcs-TP4056-1A-Lipo-Battery-Charging-Board-Charger-Module-lithium-battery-DIY-MICRO-Port/32438089423.html?spm=2114.13010608.0.0.JdlgfR)
+
 [Moisture sensors](https://www.aliexpress.com/item/FREE-SHIPPING-5pcs-lot-Soil-moisture-meter-testing-module-soil-humidity-sensor-robot-intelligent-car-for/32354569832.html?spm=2114.13010608.0.0.6gY1YW)
+
 [Buttons](https://www.aliexpress.com/item/LHLL-100-Pcs-6-x-6mm-x-9-5mm-PCB-Momentary-Tactile-Tact-Push-Button-Switch/32711550204.html?spm=2114.13010608.0.0.aKemPF)
+
 [Battery](https://www.aliexpress.com/item/3pcs-lot-Rc-Lipo-Battery-3-7V-1500mah-25c-for-RC-Airplane-Quadcopter-Helicopter-Car/32804996488.html?spm=2114.01010208.3.1.Fk4g51&ws_ab_test=searchweb0_0,searchweb201602_5_10152_10065_10151_10068_5010019_10136_10157_10137_10060_10138_10155_10062_10156_437_10154_10056_10055_10054_10059_303_100031_10099_10103_10102_10096_10147_10052_10053_10107_10050_10142_10051_10171_10084_10083_5190020_10119_10080_10082_10081_10110_519_10111_10112_10113_10114_10181_10037_10183_10182_10185_10032_10078_10079_10077_10073_10123_10120_142-10120,searchweb201603_2,ppcSwitch_5&btsid=2ce0c907-c13b-4d49-9a15-6604d871d6b2&algo_expid=1557efd2-43e1-4ea7-9ccf-d270574fd212-0&algo_pvid=1557efd2-43e1-4ea7-9ccf-d270574fd212)
+
 [Solar panel](https://www.aliexpress.com/item/5V-4-5W-Epoxy-Solar-Panel-Photovoltaic-Panel-Polycrystalline-Solar-Cell-for-Mini-Sun-Power-Energy/32727251431.html?spm=2114.01010208.3.50.h5lah7&ws_ab_test=searchweb0_0,searchweb201602_5_10152_10065_10151_10068_5010019_10136_10157_10137_10060_10138_10155_10062_10156_437_10154_10056_10055_10054_10059_303_100031_10099_10103_10102_10096_10147_10052_10053_10107_10050_10142_10051_10171_10084_10083_5190020_10119_10080_10082_10081_10110_519_10111_10112_10113_10114_10181_10037_10183_10182_10185_10032_10078_10079_10077_10073_10123_10120_142-10120,searchweb201603_2,ppcSwitch_5&btsid=79f7213f-5251-4b23-983e-32aa42167da3&algo_expid=aece1f5d-0ef7-462c-a3ab-fbd0a9f45836-6&algo_pvid=aece1f5d-0ef7-462c-a3ab-fbd0a9f45836)
+
 ## To do 
 * Allowing for waking up remotely, so we can configure device through web browser and then ability to put the device back to sleep
 * Adding more configuration items to web interface
